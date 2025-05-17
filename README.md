@@ -1,4 +1,3 @@
-````markdown
 # Math - Seu Tutor de Matemática Pessoal 🚀
 
 ## ✨ Desmistificando a Matemática e Desbloqueando a Liberdade de Aprender
