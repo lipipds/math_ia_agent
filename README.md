@@ -61,12 +61,8 @@ pip install -r requirements.txt
 Rodar no Google Colab:
 <a href="https://colab.research.google.com/github/lipipds/math_ia_agent/blob/main/agente_tutor_de_matem%C3%A1tica.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-```bash
-# Exemplo de uso via linha de comando
-python main.py "Me explica o que é uma função de segundo grau no nível de ensino médio."
-```
-
-Ou interagindo via interface (se houver).
+1. Rodar todas as células.
+2. Conversar com o agente na seção "Conversar com o Math".
 
 ## 🤝 Contribuições
 
