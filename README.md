@@ -56,17 +56,11 @@ Rodar no Google Colab:
 
 Este projeto nasceu da vontade de compartilhar conhecimento e simplificar a matemática. Contribuições são muito bem-vindas\! Seja para melhorar as explicações, adicionar novos exemplos, refinar a adaptação de linguagem, ou aprimorar a infraestrutura dos agentes.
 
-(Adicione um link ou seção com as diretrizes de contribuição, se houver um `CONTRIBUTING.md`)
-
 1.  Faça um Fork do projeto.
 2.  Crie sua Branch (`git checkout -b feature/AmazingFeature`).
 3.  Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`).
 4.  Push para a Branch (`git push origin feature/AmazingFeature`).
 5.  Abra um Pull Request.
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
 ## 🙏 Agradecimentos
 
