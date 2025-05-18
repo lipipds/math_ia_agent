@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/9a6f67cb-c98a-43b3-8cd5-dc8ff31d282b)
 
-# Math - Agente IA que ajuda com Matemática 🚀
+# Math - Multi Agente IA que ajuda com Matemática 🚀
 
 ## ✨ Desmistificando a Matemática e Desbloqueando a Liberdade de Aprender
 
@@ -46,8 +46,6 @@ O math foi projetado para ser um companheiro de estudo adaptável e completo:
 
 ## 💻 Instalação
 
-Rodar no Google Colab
-
 (Seção a ser completada com as instruções técnicas de como instalar e configurar o projeto)
 
 ```bash
@@ -60,7 +58,8 @@ pip install -r requirements.txt
 
 ## 🚀 Como Usar
 
-(Seção a ser completada com exemplos de como interagir com o agente Math, seja por linha de comando, interface web, etc.)
+Rodar no Google Colab:
+<a href="https://colab.research.google.com/github/lipipds/math_ia_agent/blob/main/agente_tutor_de_matem%C3%A1tica.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ```bash
 # Exemplo de uso via linha de comando
