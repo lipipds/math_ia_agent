@@ -1,4 +1,6 @@
-# Math - Seu Tutor de Matemática Pessoal 🚀
+![image](https://github.com/user-attachments/assets/9a6f67cb-c98a-43b3-8cd5-dc8ff31d282b)
+
+# Math - Agente IA que ajuda com Matemática 🚀
 
 ## ✨ Desmistificando a Matemática e Desbloqueando a Liberdade de Aprender
 
@@ -8,33 +10,33 @@ Percebendo que muitos compartilham essa dificuldade e o desejo de encontrar sent
 
 **Math** é mais do que um software; é a materialização de um tutor acessível, paciente e experiente, pronto para acompanhar sua jornada de aprendizado matemático, do básico ao ensino médio (e até superior, quando necessário!).
 
-## 🤖 Conheça o GUI: Seu Tutor Virtual
+## 🤖 Conheça o Math: Seu Tutor Virtual
 
-No coração do projeto está o **GUI** (sigla para Graphical User Interface, mas pense nele como seu "Guia"!). Ele é o seu tutor virtual de matemática:
+No coração do projeto está o **Math** (pense nele como seu "Guia"!). Ele é o seu tutor virtual de matemática:
 
 * **Amigável e Encorajador:** Sempre com uma linguagem positiva e motivadora. Espere frases como: "Ótimo trabalho!", "Você está quase lá!", "Continue assim!", "Essa é uma ótima pergunta!" 🎉
 * **Paciente e Experiente:** Dedicado a ajudar você a compreender conceitos, resolver problemas e construir confiança nas suas habilidades.
-* **Especializado:** Focado em auxiliar estudantes dos níveis Fundamental, Médio e Superior.
+* **Especializado:** Focado em auxiliar estudantes dos níveis Fundamental, Médio e até Superior, de forma adaptável.
 
-## 🧠 Como o GUI te Ajuda (e o que ele pode fazer!)
+## 🧠 Como o Math te Ajuda (e o que ele pode fazer!)
 
-O GUI foi projetado para ser um companheiro de estudo adaptável e completo:
+O math foi projetado para ser um companheiro de estudo adaptável e completo:
 
-1.  **Entendimento Profundo:** Antes de qualquer resposta, o GUI analisa sua pergunta para:
+1.  **Entendimento Profundo:** Antes de qualquer resposta, o Math analisa sua pergunta para:
     * **Detectar a dificuldade/nível:** *(Utilizando `agente_detecta_dificuldade`)*
     * **Identificar o tema:** *(Utilizando `agente_identificador`)*
 
-2.  **Adaptação de Nível:** A explicação e a linguagem do GUI se adaptam perfeitamente ao seu nível identificado:
+2.  **Adaptação de Nível:** A explicação e a linguagem do Math se adaptam perfeitamente ao seu nível identificado:
     * **Ensino Fundamental:** Linguagem mais lúdica, infantil, com exemplos concretos usando objetos do dia a dia. 🧸🍎
     * **Ensino Médio:** Linguagem mais informal, estilo redes sociais, com emojis e referências atuais. 😉✨
     * **Ensino Superior:** Linguagem mais formal e técnica, focada na precisão dos conceitos. 📚🔬
 
-3.  **Capacidades de Tutoria:** O GUI possui subagentes especializados para te dar o suporte que você precisa:
+3.  **Capacidades de Tutoria:** O Math possui subagentes especializados para te dar o suporte que você precisa:
     * **Explicar Conceitos:** Esclarece teorias, fórmulas e ideias matemáticas de forma clara e adaptada. *(Chama o `agente_conceituador`)*
     * **Exemplificar:** Apresenta exemplos práticos, criativos e de diferentes aplicações para mostrar "onde e como usar isso!". *(Chama o `agente_exemplificador`)*
     * **Criar Exercícios e Planos de Estudo:** Gera exercícios personalizados para você praticar e pode sugerir um plano de estudo para te ajudar a progredir. *(Chama o `agente_exercicios`)*
 
-**Em resumo, com o Math (e o GUI!), você pode:**
+**Em resumo, com o Math você pode:**
 
 * Receber ajuda a qualquer momento.
 * Ter explicações que realmente fazem sentido para o seu nível.
@@ -43,6 +45,8 @@ O GUI foi projetado para ser um companheiro de estudo adaptável e completo:
 * Superar a frustração e descobrir a liberdade de aprender matemática!
 
 ## 💻 Instalação
+
+Rodar no Google Colab
 
 (Seção a ser completada com as instruções técnicas de como instalar e configurar o projeto)
 
@@ -83,28 +87,12 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 ## 🙏 Agradecimentos
 
-(Opcional: Agradeça a bibliotecas, frameworks, comunidades ou indivíduos que foram essenciais para o desenvolvimento do projeto)
+Minha família, que me inspirou.
 
-  * A todos os professores que me inspiraram.
-  * À comunidade de IA e Open Source.
-  * [Nome de alguma biblioteca/framework]
-  * [Nome de alguma pessoa/equipe]
+Professores da Alura, que trouxeram o conteúdo de forma muito didática.
+
+Google e time Gemini, que está tornando cada vez mais acessível o uso da IA.
 
 -----
 
-Made with ❤️ by [Seu Nome/Nome da Sua Equipe]
-
-```
-
-**Pontos a serem ajustados/completados:**
-
-1.  **Logo:** Se tiver uma logo, adicione a linha de imagem e substitua o placeholder.
-2.  **Instalação:** Preencha esta seção com as instruções técnicas reais do seu projeto (linguagem, dependências, como rodar).
-3.  **Como Usar:** Descreva as formas de interação e forneça exemplos concretos de perguntas e como o usuário as faria.
-4.  **Contribuições:** Se você tiver um arquivo `CONTRIBUTING.md`, adicione o link. Caso contrário, pode deixar as etapas básicas no README.
-5.  **Agradecimentos:** Preencha com os agradecimentos relevantes.
-6.  **Seu Nome/Equipe:** Substitua `[Seu Nome/Nome da Sua Equipe]` no final.
-7.  **Links:** Se o seu repositório tiver arquivos `LICENSE` ou `CONTRIBUTING.md`, certifique-se de que os links estejam corretos.
-
-Este README tenta equilibrar sua história pessoal e a motivação com a descrição clara das funcionalidades e da persona do agente Math/GUI, tornando o projeto atraente tanto para usuários quanto para potenciais contribuidores.
-```
+Made with ❤️ by Filipi
