@@ -44,18 +44,6 @@ O math foi projetado para ser um companheiro de estudo adaptável e completo:
 * Praticar com exercícios focados nas suas necessidades.
 * Superar a frustração e descobrir a liberdade de aprender matemática!
 
-## 💻 Instalação
-
-(Seção a ser completada com as instruções técnicas de como instalar e configurar o projeto)
-
-```bash
-# Exemplo (pode variar muito dependendo da tecnologia)
-git clone [https://github.com/seu-usuario/seu-repositorio-math.git](https://github.com/seu-usuario/seu-repositorio-math.git)
-cd seu-repositorio-math
-pip install -r requirements.txt
-# Configurações adicionais (chaves de API, etc.)
-````
-
 ## 🚀 Como Usar
 
 Rodar no Google Colab:
